@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$" />
+  </component>
+  <component name="GitLabDefaultAccount">
+    <option name="defaultAccountId" value="a0d6f357-809a-4dc5-ab55-3f9190858c98" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="18d24902-f8d4-4d9b-9e0b-08dfa6d4518c" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="temurin-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
